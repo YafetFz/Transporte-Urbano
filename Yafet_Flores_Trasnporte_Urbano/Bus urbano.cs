@@ -26,7 +26,7 @@ namespace Yafet_Flores_Trasnporte_Urbano
 
         public void recorrer()
         {
-            Console.WriteLine($"El vehiculo recorrio una cantidad de {Kmreco}");
+            Console.WriteLine($"El vehiculo recorrio una cantidad de {Kmreco} kilometros");
         }
 
         public override void calculartarifa()
